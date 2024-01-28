@@ -1,0 +1,2 @@
+lidar_camera_fusion
+-DCATKIN_DEVEL_PREFIX=/home/lee/Fusion_lidar_camera/devel -DCMAKE_INSTALL_PREFIX=/home/lee/Fusion_lidar_camera/install -G Unix Makefiles

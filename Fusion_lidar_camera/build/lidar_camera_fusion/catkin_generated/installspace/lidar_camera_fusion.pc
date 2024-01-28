@@ -1,0 +1,8 @@
+prefix=/home/lee/Fusion_lidar_camera/install
+
+Name: lidar_camera_fusion
+Description: Description of lidar_camera_fusion
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
